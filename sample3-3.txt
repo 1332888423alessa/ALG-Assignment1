@@ -1,0 +1,15 @@
+No words in the lexicon match the patternma?
+	man  2
+	map  1
+	mat  1
+	may  1
+b?t
+	but  1
+c?p
+	cup  1
+c??
+	can  1
+	cat  1
+	cup  1
+b??n
+	been  1
